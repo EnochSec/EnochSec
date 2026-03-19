@@ -12,10 +12,12 @@ My front lines of customer support serving as a human firewall has led me to dev
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SOC Analysis                            | <a href="https://github.com/EnochSec/Test-Audit/">Test Audit</a>|
+| Risk assessment and security auditing  | <a href="https://github.com/EnochSec/Test-Audit/">Test Audit</a>|
 
 ## Tools
 
+- Google Sheets
+- Markdown
 
 
 ## Certifications
