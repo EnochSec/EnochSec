@@ -12,7 +12,7 @@ My front lines of customer support serving as a human firewall has led me to dev
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SOC Analysis                            | <a href="">Test Audit</a>|
+| SOC Analysis                            | <a href="https://github.com/EnochSec/Test-Audit/">Test Audit</a>|
 
 ## Tools
 
@@ -33,7 +33,7 @@ My front lines of customer support serving as a human firewall has led me to dev
 </div>
 
 ## Projects
-- <a href="">Test Audit</a>
+- <a href="https://github.com/EnochSec/Test-Audit/">Test Audit</a>
 
 <!--
 **EnochSec/EnochSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
