@@ -12,7 +12,7 @@ My front line of customer support serving as a human firewall has led me to deve
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Risk assessment and security auditing  | <a href="Test-Audit/">Test Audit</a>|
+| Risk assessment and security auditing  | <a href="https://github.com/EnochSec/Test-Audit">Test Audit</a>|
 
 ## Tools
 
@@ -35,7 +35,7 @@ My front line of customer support serving as a human firewall has led me to deve
 </div>
 
 ## Projects
-- <a href="Test-Audit/">Test Audit</a>
+- <a href="https://github.com/EnochSec/Test-Audit">Test Audit</a>
 
 <!--
 **EnochSec/EnochSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
