@@ -6,7 +6,7 @@ I am a neutral investigator with a profound interest in technology with this min
 
 ## Objective
 
-My front lines of customer support serving as a human firewall has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, as an entry-level enthusiast developing skills in security operations, threat detections, networking and risk management.
+My front line of customer support serving as a human firewall has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, as an entry-level enthusiast developing skills in security operations, threat detections, networking and risk management.
 
 ## Skills
 
